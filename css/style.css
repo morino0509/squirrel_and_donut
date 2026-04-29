@@ -1425,6 +1425,20 @@ transition: 0.4s;
   pointer-events: none;
 }
 
+/* ルーペ */
+.goods-img::before{
+   content: "";
+  position: absolute;
+  background-image: url(../img/close-up.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 20px;
+  right: 8px;
+  bottom: 8px;
+  display: block;
+}
+
 /* 商品情報 */
 .product-header {
   text-align: center;
