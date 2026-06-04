@@ -1445,6 +1445,10 @@ transition: 0.4s;
   margin-top: 10px;
 }
 
+.goods-desc{
+  font-size: 1.4rem;
+}
+
 /*ーーーーーー
 PCサイズ*/
 @media screen and (min-width: 1024px) {
