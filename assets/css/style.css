@@ -155,7 +155,7 @@ Nav */
   top: 80px;
   left: -100%;
   width: 85%;
-  background-image: url(../images/kraftｰpaper.png);
+  background-image: url(../images/kraft-paper.webp);
   transition: all 0.4s ease;
   z-index: 999;
   border-radius: 10px;
@@ -1100,7 +1100,7 @@ PCサイズ*/
 SNS */
 
 .section--SNS {
-  background-image: url(../images/kraftｰpaper.png);
+  background-image: url(../images/kraft-paper.webp);
   background-size: 366px auto;
   background-repeat: repeat;
   padding: 90px 0 80px;
@@ -1157,7 +1157,7 @@ SNS */
   content: '';
   width: 40px;
   height: 40px;
-  background-image: url(../images/line_app_icon.png);
+  background-image: url(../images/line_app_icon.webp);
   background-size: contain;
   background-repeat: none;
   background-position: center;
