@@ -1172,12 +1172,12 @@ SNS */
   content: '';
   width: 20px;
   height: 20px;
-  background-image: url(../images/External-Link-red-brown.svg);
+  background-image: url(../images/external-link-red-brown.svg);
   background-size: contain;
   background-repeat: none;
   background-position: center;
   position: absolute;
-  top: 50%;
+  top: 55%;
   right: 15px;
   transform: translateY(-50%);
 }
